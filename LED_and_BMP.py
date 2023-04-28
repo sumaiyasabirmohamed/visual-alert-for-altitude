@@ -2,7 +2,7 @@
 
 #...........................................................................
 # Author:  Sumaiya Sabir Mohamed
-# Github:  https://github.com/TechnicalVillager
+# Github:  https://github.com/sumaiyasabirmohamed
 #...........................................................................
 
 # Import Necessary Packages
